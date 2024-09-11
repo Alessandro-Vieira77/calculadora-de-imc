@@ -13,5 +13,6 @@ Além disso, uma tabela abaixo mostrará o IMC, a classificação e o nível de 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 - [click para ver o projeto rodando](https://calculadora-de-imc-theta.vercel.app/)
+- [meu Linkedin](https://www.linkedin.com/in/alessandro-vieira02/)
 
 
